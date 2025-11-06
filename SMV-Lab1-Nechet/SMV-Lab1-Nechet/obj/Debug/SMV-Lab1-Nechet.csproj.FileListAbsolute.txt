@@ -1,0 +1,22 @@
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.csproj.AssemblyReference.cache
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.csproj.CoreCompileInputs.cache
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.exe.config
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.exe
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.pdb
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.exe
+C:\Users\Q8982\source\repos\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.pdb
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.exe.config
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.exe
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.pdb
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.exe.config
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.exe
+C:\Users\user\Desktop\Си Шарпик\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.pdb
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.exe.config
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.exe
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\bin\Debug\SMV-Lab1-Nechet.pdb
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.csproj.AssemblyReference.cache
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.csproj.CoreCompileInputs.cache
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.exe
+C:\Users\Q8982\OneDrive\Рабочий стол\C#\SMV-Lab1-Nechet\SMV-Lab1-Nechet\obj\Debug\SMV-Lab1-Nechet.pdb
