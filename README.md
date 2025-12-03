@@ -24,7 +24,7 @@
 ### Решение
 Из введённого числового символа, переведённого в целое число, вычитается код числового символа '0'.
 
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/4a2e6822-5592-4cea-b6f6-01b31e87068d" />
+<img width="522" height="475" alt="image" src="https://github.com/user-attachments/assets/6329f4a3-4ca6-4587-874d-16dc57e761f7" />
 
 ## Формулировка задания №1.5
 Дана сигнатура метода: public bool Is2Digits (int x);
