@@ -51,7 +51,7 @@
 Дана сигнатура метода: public bool IsEqual (int a, int b, int c);
 Необходимо реализовать метод таким образом, чтобы он возвращал true, если все три полученных методом числа равны.
 
-<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/2e924101-5815-4c93-8bef-120628c81570" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/2e924101-5815-4c93-8bef-120628c81570" />
 
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/caef4ce8-5037-4978-9bf9-cd646835ffea" />
 
