@@ -31,19 +31,19 @@
 Необходимо реализовать метод таким образом, чтобы он принимал число x и возвращал true, если оно двузначное.
 
 ### Решение
-Если число находится в промежутке между 9 и 100 или -100 и -9, то выводится true. Иначе - false.
+Если число находится в промежутке между 9 и 100 или -100 и -9, то число - двузначное. Иначе - нет.
 
-<img width="480" height="191" alt="image" src="https://github.com/user-attachments/assets/fbfd1970-612a-4267-8f99-04ffcf2243b8" />
+<img width="480" height="100" alt="image" src="https://github.com/user-attachments/assets/fbfd1970-612a-4267-8f99-04ffcf2243b8" />
 
-<img width="264" height="125" alt="image" src="https://github.com/user-attachments/assets/f42da1dc-c833-4651-89fd-7d5b16956f19" />
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/f42da1dc-c833-4651-89fd-7d5b16956f19" />
 
-<img width="256" height="122" alt="image" src="https://github.com/user-attachments/assets/d4e8ccc2-4371-43ff-82cb-8418305d546e" />
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d4e8ccc2-4371-43ff-82cb-8418305d546e" />
 
-<img width="268" height="119" alt="image" src="https://github.com/user-attachments/assets/541831c7-ba4d-4c6b-b53c-2ac4f562efdd" />
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/541831c7-ba4d-4c6b-b53c-2ac4f562efdd" />
 
-<img width="267" height="128" alt="image" src="https://github.com/user-attachments/assets/d90bc87e-e0a1-46b4-be2e-6ee150b215dd" />
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d90bc87e-e0a1-46b4-be2e-6ee150b215dd" />
 
-<img width="262" height="101" alt="image" src="https://github.com/user-attachments/assets/1cd05a64-cf90-4d55-bc3c-701cbe77478d" />
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/1cd05a64-cf90-4d55-bc3c-701cbe77478d" />
 
 ## Формулировка задания №1.7
 Дана сигнатура метода: public bool IsInRange (int a, int b, int num);
