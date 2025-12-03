@@ -26,7 +26,7 @@
 Дана сигнатура метода: public bool Is2Digits (int x);
 Необходимо реализовать метод таким образом, чтобы он принимал число x и возвращал true, если оно двузначное.
  
-<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/2aceee67-74ac-4a60-882b-637288aa1f0c" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2aceee67-74ac-4a60-882b-637288aa1f0c" />
 
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/ce60352e-9582-4110-b5fe-ff9b0e1263f5" />
 
