@@ -33,7 +33,7 @@
 ### Решение
 Если число находится в промежутке между 9 и 100 или -100 и -9, то число - двузначное. Иначе - нет.
 
-<img width="480" height="100" alt="image" src="https://github.com/user-attachments/assets/fbfd1970-612a-4267-8f99-04ffcf2243b8" />
+<img width="480" height="200" alt="image" src="https://github.com/user-attachments/assets/fbfd1970-612a-4267-8f99-04ffcf2243b8" />
 
 <img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/f42da1dc-c833-4651-89fd-7d5b16956f19" />
 
