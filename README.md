@@ -13,7 +13,7 @@
 ### Альтернативное решение
 Используя математические функции можно уменьшить количество строк кода в методе.
 
-<img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/c64d6e0e-806b-45d3-b5d9-5d2acac75a27" />
+<img width="531" height="107" alt="image" src="https://github.com/user-attachments/assets/6a357220-6443-46eb-bd08-9006ab353a35" />
 
 <img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/ae8c31e2-c0a2-49e2-92fb-e929dcf837e6" />
 
