@@ -50,6 +50,8 @@ public int CharToNum(char x)
 
 Тестирование программы
 
+<img width="541" height="630" alt="image" src="https://github.com/user-attachments/assets/4a2e6822-5592-4cea-b6f6-01b31e87068d" />
+
 Формулировка задания №1.5
 
 Дана сигнатура метода: public bool Is2Digits (int x);
