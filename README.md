@@ -36,7 +36,7 @@
 Метод принимает левую и правую границу (a и b) некоторого числового диапазона.
 Необходимо реализовать метод таким образом, чтобы он возвращал true, если num входит в указанный диапазон (включая границы). Отношение a и b заранее неизвестно (неясно кто из них больше, а кто меньше).
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c8af61b9-8b87-40f9-b73d-f290d8bc8380" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c8af61b9-8b87-40f9-b73d-f290d8bc8380" />
 
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/0cecec87-e5d2-48c6-aca9-ea97e48433e2" />
 
@@ -51,9 +51,9 @@
 Дана сигнатура метода: public bool IsEqual (int a, int b, int c);
 Необходимо реализовать метод таким образом, чтобы он возвращал true, если все три полученных методом числа равны.
 
-<img width="494" height="474" alt="image" src="https://github.com/user-attachments/assets/2e924101-5815-4c93-8bef-120628c81570" />
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/2e924101-5815-4c93-8bef-120628c81570" />
 
-<img width="263" height="247" alt="image" src="https://github.com/user-attachments/assets/caef4ce8-5037-4978-9bf9-cd646835ffea" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/caef4ce8-5037-4978-9bf9-cd646835ffea" />
 
 ## Формулировка задания №2.1
 
