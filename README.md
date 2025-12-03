@@ -25,6 +25,10 @@ public double Fraction(double x)
 
 <img width="349" height="76" alt="image" src="https://github.com/user-attachments/assets/c64d6e0e-806b-45d3-b5d9-5d2acac75a27" />
 
+<img width="533" height="99" alt="image" src="https://github.com/user-attachments/assets/ae8c31e2-c0a2-49e2-92fb-e929dcf837e6" />
+
+<img width="578" height="426" alt="image" src="https://github.com/user-attachments/assets/d92b7211-2230-416a-9607-9bdfab247cd6" />
+
 Формулировка задания №1.3
 
 Дана сигнатура метода: public int CharToNum (char x);
