@@ -27,19 +27,23 @@
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/4a2e6822-5592-4cea-b6f6-01b31e87068d" />
 
 ## Формулировка задания №1.5
-
 Дана сигнатура метода: public bool Is2Digits (int x);
 Необходимо реализовать метод таким образом, чтобы он принимал число x и возвращал true, если оно двузначное.
+
+## Решение
+Если число находится в промежутках между 9 и 100 или -100 и -9, то выводится true. Иначе - false.
  
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2aceee67-74ac-4a60-882b-637288aa1f0c" />
 
 <img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/ce60352e-9582-4110-b5fe-ff9b0e1263f5" />
 
 ## Формулировка задания №1.7
-
 Дана сигнатура метода: public bool IsInRange (int a, int b, int num);
 Метод принимает левую и правую границу (a и b) некоторого числового диапазона.
 Необходимо реализовать метод таким образом, чтобы он возвращал true, если num входит в указанный диапазон (включая границы). Отношение a и b заранее неизвестно (неясно кто из них больше, а кто меньше).
+
+## Решение
+Находим максимум и минимум из чисел a и b. Если число x находится между минимумом и максимумом, то выводится true. Иначе false.
 
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c8af61b9-8b87-40f9-b73d-f290d8bc8380" />
 
