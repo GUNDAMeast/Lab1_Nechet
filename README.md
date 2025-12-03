@@ -36,15 +36,15 @@
 Метод принимает левую и правую границу (a и b) некоторого числового диапазона.
 Необходимо реализовать метод таким образом, чтобы он возвращал true, если num входит в указанный диапазон (включая границы). Отношение a и b заранее неизвестно (неясно кто из них больше, а кто меньше).
 
-<img width="509" height="422" alt="image" src="https://github.com/user-attachments/assets/c8af61b9-8b87-40f9-b73d-f290d8bc8380" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c8af61b9-8b87-40f9-b73d-f290d8bc8380" />
 
-<img width="269" height="239" alt="image" src="https://github.com/user-attachments/assets/0cecec87-e5d2-48c6-aca9-ea97e48433e2" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/0cecec87-e5d2-48c6-aca9-ea97e48433e2" />
 
-<img width="261" height="244" alt="image" src="https://github.com/user-attachments/assets/f6fb89d5-a31a-4e39-9c58-b0d048c8d6d9" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f6fb89d5-a31a-4e39-9c58-b0d048c8d6d9" />
 
-<img width="266" height="217" alt="image" src="https://github.com/user-attachments/assets/67148781-f356-4660-92ec-b7d11928bb6e" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/67148781-f356-4660-92ec-b7d11928bb6e" />
 
-<img width="261" height="214" alt="image" src="https://github.com/user-attachments/assets/04b1ac1f-3d28-44bd-8e13-b09640407ef3" />
+<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/04b1ac1f-3d28-44bd-8e13-b09640407ef3" />
 
 ## Формулировка задания №1.9
 
