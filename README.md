@@ -53,15 +53,13 @@
 ### Решение
 Выбирается максимум и минимум из чисел a и b. Если число num находится между минимумом и максимумом, то оно входит в заданный промежуток. Иначе оно не входит в него.
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/c8af61b9-8b87-40f9-b73d-f290d8bc8380" />
+<img width="245" height="260" alt="image" src="https://github.com/user-attachments/assets/993d5b74-74eb-4d91-a6d4-dcdc3afe848e" />
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/0cecec87-e5d2-48c6-aca9-ea97e48433e2" />
+<img width="262" height="276" alt="image" src="https://github.com/user-attachments/assets/0f83023a-d030-4b21-a445-8790e2fc14ba" />
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/f6fb89d5-a31a-4e39-9c58-b0d048c8d6d9" />
+<img width="273" height="276" alt="image" src="https://github.com/user-attachments/assets/9c5cca01-3641-4bd1-a149-1f614c5bd817" />
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/67148781-f356-4660-92ec-b7d11928bb6e" />
-
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/04b1ac1f-3d28-44bd-8e13-b09640407ef3" />
+<img width="258" height="276" alt="image" src="https://github.com/user-attachments/assets/0afaf3fa-d5a0-4cbd-819a-6bf6c93b48eb" />
 
 ## Формулировка задания №1.9
 
