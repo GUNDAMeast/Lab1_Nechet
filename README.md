@@ -11,7 +11,7 @@
 
 <img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/ae8c31e2-c0a2-49e2-92fb-e929dcf837e6" />
 
-<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/d92b7211-2230-416a-9607-9bdfab247cd6" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d92b7211-2230-416a-9607-9bdfab247cd6" />
 
 ## Формулировка задания №1.3
 
@@ -19,7 +19,7 @@
 Метод принимает символ х, который представляет собой одно из чисел “0 1 2 3 4 5 6 7 8 9”. 
 Необходимо реализовать метод таким образом, чтобы он преобразовывал символ в соответствующее число. Подсказка: код символа ‘0’ — это число 48.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/4a2e6822-5592-4cea-b6f6-01b31e87068d" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/4a2e6822-5592-4cea-b6f6-01b31e87068d" />
 
 Формулировка задания №1.5
 
