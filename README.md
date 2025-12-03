@@ -32,10 +32,18 @@
 
 ### Решение
 Если число находится в промежутках между 9 и 100 или -100 и -9, то выводится true. Иначе - false.
- 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/2aceee67-74ac-4a60-882b-637288aa1f0c" />
 
-<img width="250" height="200" alt="image" src="https://github.com/user-attachments/assets/ce60352e-9582-4110-b5fe-ff9b0e1263f5" />
+<img width="480" height="191" alt="image" src="https://github.com/user-attachments/assets/fbfd1970-612a-4267-8f99-04ffcf2243b8" />
+
+<img width="264" height="125" alt="image" src="https://github.com/user-attachments/assets/f42da1dc-c833-4651-89fd-7d5b16956f19" />
+
+<img width="256" height="122" alt="image" src="https://github.com/user-attachments/assets/d4e8ccc2-4371-43ff-82cb-8418305d546e" />
+
+<img width="268" height="119" alt="image" src="https://github.com/user-attachments/assets/541831c7-ba4d-4c6b-b53c-2ac4f562efdd" />
+
+<img width="267" height="128" alt="image" src="https://github.com/user-attachments/assets/d90bc87e-e0a1-46b4-be2e-6ee150b215dd" />
+
+<img width="262" height="101" alt="image" src="https://github.com/user-attachments/assets/1cd05a64-cf90-4d55-bc3c-701cbe77478d" />
 
 ## Формулировка задания №1.7
 Дана сигнатура метода: public bool IsInRange (int a, int b, int num);
