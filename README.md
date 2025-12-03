@@ -11,13 +11,13 @@
 Из вещественного числа x вычитается число x переведённое в целое. Если вещественное число было отрицательным то минус у дробной части уничтожается.
 
 ### Альтернативное решение
-Используя математические функции можно уменьшить количество строк кода в методе.
+Используя математические функции можно оптимизировать код в методе.
 
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/6a357220-6443-46eb-bd08-9006ab353a35" />
 
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/148d6dc6-9c9f-46a4-8acf-74c02fb4f6b3" />
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d92b7211-2230-416a-9607-9bdfab247cd6" />
+<img width="549" height="458" alt="image" src="https://github.com/user-attachments/assets/2532b8bc-d63f-4ebf-b4c5-19b666a8434d" />
 
 ## Формулировка задания №1.3
 
