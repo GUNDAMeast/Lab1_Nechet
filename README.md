@@ -7,9 +7,9 @@
 Дана сигнатура метода: public double Fraction (double x);
 Необходимо реализовать метод таким образом, чтобы он возвращал только дробную часть числа x.
 
-<img width="349" height="76" alt="image" src="https://github.com/user-attachments/assets/c64d6e0e-806b-45d3-b5d9-5d2acac75a27" />
+<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/c64d6e0e-806b-45d3-b5d9-5d2acac75a27" />
 
-<img width="533" height="99" alt="image" src="https://github.com/user-attachments/assets/ae8c31e2-c0a2-49e2-92fb-e929dcf837e6" />
+<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/ae8c31e2-c0a2-49e2-92fb-e929dcf837e6" />
 
 <img width="578" height="426" alt="image" src="https://github.com/user-attachments/assets/d92b7211-2230-416a-9607-9bdfab247cd6" />
 
