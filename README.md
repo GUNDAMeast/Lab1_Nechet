@@ -17,7 +17,7 @@
 
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/148d6dc6-9c9f-46a4-8acf-74c02fb4f6b3" />
 
-<img width="549" height="458" alt="image" src="https://github.com/user-attachments/assets/2532b8bc-d63f-4ebf-b4c5-19b666a8434d" />
+<img width="450" height="400" alt="image" src="https://github.com/user-attachments/assets/2532b8bc-d63f-4ebf-b4c5-19b666a8434d" />
 
 ## Формулировка задания №1.3
 
