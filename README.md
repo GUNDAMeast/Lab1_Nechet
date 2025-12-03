@@ -8,19 +8,6 @@
 Дана сигнатура метода: public double Fraction (double x);
 Необходимо реализовать метод таким образом, чтобы он возвращал только дробную часть числа x.
 
-Формат входных данных:
-Вещественное число
-Формат выходных данных:
-Вещественное число
-
-Описание кода
-
-public double Fraction(double x)
-{
-    return x - (int)x;
-    //return (x - Math.Truncate(x));
-}
-
 Тестирование программы
 
 <img width="349" height="76" alt="image" src="https://github.com/user-attachments/assets/c64d6e0e-806b-45d3-b5d9-5d2acac75a27" />
