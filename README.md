@@ -22,6 +22,7 @@ public double Fraction(double x)
 }
 
 Тестирование программы
+
 <img width="349" height="76" alt="image" src="https://github.com/user-attachments/assets/c64d6e0e-806b-45d3-b5d9-5d2acac75a27" />
 
 Формулировка задания №1.3
