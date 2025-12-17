@@ -125,7 +125,7 @@
 
 <img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/2a7248f0-55ad-4ef1-b67b-a9c104364989" />
 
-<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/fcb7d18f-4832-49e8-aa82-51a5ef168ce1" />
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/98df2cb3-0b1b-456f-a9c4-415bbe7aa9ae" />
 
 ## Формулировка задания №2.9
 Дана сигнатура метода: public string Day (int x);
@@ -133,7 +133,7 @@
 Необходимо реализовать метод таким образом, чтобы он возвращал строку, которая будет обозначать текущий день недели, где 1 - это понедельник, а 7 - воскресенье. Если число не от 1 до 7 то верните текст “Это не день недели”. Вместо if в данной задаче используйте switch.
 
 ### Решение
-Проверяем что пользователь ввёл число и соотносим его с днём недели.
+Соотносим число, введённое пользователем, с днём недели.
 
 <img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/b9267965-6b98-4dfe-92f4-cc53a84e2751" />
 
@@ -146,30 +146,55 @@
 Необходимо реализовать метод таким образом, чтобы он возвращал строку, в которой будут записаны все числа от 0 до x (включительно)
 
 ### Решение
+С помощью цикла for выводим числа через пробел от 0 до числа, введённого пользователем, включительно.
+
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/c7f17d0c-a3ff-48df-ae1e-ecaca0a2dfdf" />
+
+<img width="550" height="100" alt="image" src="https://github.com/user-attachments/assets/8517a4f9-fff8-4aa8-82f7-b45394641425" />
 
 ## Формулировка задания №3.3
 Дана сигнатура метода: public string Chet (int x); 
 Необходимо реализовать метод таким образом, чтобы он возвращал строку, в которой будут записаны все четные числа от 0 до x (включительно). Подсказка: для обеспечения качества кода: инструкцию if использовать не следует.
 
 ### Решение
+С помощью цикла for выводим числа через пробел с шагом 2 от 0 до числа, введённого пользователем, включительно.
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/94a5bb26-b45c-4b38-a665-802faff0ef2c" />
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/d1a26bf1-b4d1-4493-8721-db3b0bc145f1" />
 
 ## Формулировка задания №3.5
 Дана сигнатура метода: public int NumLen (long x); 
 Необходимо реализовать метод таким образом, чтобы он возвращал количество знаков(цифр) в числе x.
 
 ### Решение
+Проверяем какое число ввёл пользователь: однозначное, двузначное, трёхзначное и так далее.
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/7be1ba6d-5d1d-4ad2-81d4-938aa9b39ecc" />
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/2bb19f16-523b-416d-825e-0962b943b3ae" />
+
+<img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/402a07ea-8030-45da-a13d-9458bfa46da2" />
 
 ## Формулировка задания №3.7
 Дана сигнатура метода: public void Square (int x); 
 Необходимо реализовать метод таким образом, чтобы он выводил на экран квадрат из символов * размером х, у которого х символов в ряд и х символов в высоту.  
 
 ### Решение
+Выводим квадрат из * соответствующего размера если число, введённое пользователем, оказалось положительным.
+
+<img width="425" height="200" alt="image" src="https://github.com/user-attachments/assets/a46b6082-04f4-4f2f-9edb-dd8ef74febc2" />
+
+<img width="650" height="200" alt="image" src="https://github.com/user-attachments/assets/cb2acd92-f02f-47c6-8ebf-84c41722c223" />
 
 ## Формулировка задания №3.9
 Дана сигнатура метода: public void RightTriangle (int x); 
 Необходимо реализовать метод таким образом, чтобы он выводил на экран треугольник из символов * у которого х символов в высоту, а количество символов в ряду совпадает с номером строки, при этом треугольник выровнен по правому краю. Подсказка: перед символами ‘*’ следует выводить необходимое количество пробелов.
 
 ### Решение
+Выводим треугольник по правому краю из * соответствующего размера если число, введённое пользователем, оказалось положительным.
+
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/f653ec1c-5f1f-4bab-89e7-469ccc5b0d2f" />
 
 ## Формулировка задания №4.1
 Дана сигнатура метода: public int FindFirst (int[] arr, int x); 
