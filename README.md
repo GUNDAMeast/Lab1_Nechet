@@ -93,18 +93,39 @@
 Необходимо реализовать метод таким образом, чтобы он возвращал true, если число x делится нацело на 3 или 5. При этом если оно делится и на 3, и на 5, то вернуть надо false.
 
 ### Решение
+Если число кратно 3 или 5 возвращаем True. Если оно не кратно или кратно одновременно - возвращаем False.
+
+<img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/152a7dac-1149-472b-b5a9-851a0b70d152" />
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/9b67ede1-e304-432e-9465-bfd8e5168eef" />
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/5acd53f0-275d-47f4-b8b1-6b719ab737b5" />
+
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/db5109d1-009a-4d65-9e1a-9181dc0ddc2d" />
 
 ## Формулировка задания №2.5
 Дана сигнатура метода: public int Max3 (int x, int y, int z);
 Необходимо реализовать метод таким образом, чтобы он возвращал максимальное из трёх полученных методом чисел. Подсказка: идеальное решение включает всего две инструкции if и не содержит вложенных if.
 
 ### Решение
+Выбираем большее число из первого и второго, далее выбираем большее число из третьего и большего между первым и вторым.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/52584e29-bf56-4946-bc79-0e1e1f8b27a0" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/5b2179b1-34b9-40ef-b7c7-462fac1cb983" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/23bfd450-09bf-4244-b38b-ac915eee1021" />
 
 ## Формулировка задания №2.7
 Дана сигнатура метода: public int Sum2 (int x, int y);
 Необходимо реализовать метод таким образом, чтобы он возвращал сумму чисел x и y. Однако если сумма попадает в диапазон от 10 до 19, то надо вернуть число 20.
 
 ### Решение
+Складываем два числа. Если сумма попадает в диапазон от 10 до 19, то всегда возвращается 20.
+
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/2a7248f0-55ad-4ef1-b67b-a9c104364989" />
+
+<img width="250" height="150" alt="image" src="https://github.com/user-attachments/assets/fcb7d18f-4832-49e8-aa82-51a5ef168ce1" />
 
 ## Формулировка задания №2.9
 Дана сигнатура метода: public string Day (int x);
@@ -112,6 +133,13 @@
 Необходимо реализовать метод таким образом, чтобы он возвращал строку, которая будет обозначать текущий день недели, где 1 - это понедельник, а 7 - воскресенье. Если число не от 1 до 7 то верните текст “Это не день недели”. Вместо if в данной задаче используйте switch.
 
 ### Решение
+Проверяем что пользователь ввёл число и соотносим его с днём недели.
+
+<img width="350" height="150" alt="image" src="https://github.com/user-attachments/assets/b9267965-6b98-4dfe-92f4-cc53a84e2751" />
+
+<img width="350" height="100" alt="image" src="https://github.com/user-attachments/assets/33819ff8-aca0-48cc-bb09-bfdced3e07c6" />
+
+<img width="250" height="100" alt="image" src="https://github.com/user-attachments/assets/680d1932-b91a-4b77-b501-ad2bb4166843" />
 
 ## Формулировка задания №3.1
 Дана сигнатура метода: public string ListNums (int x);
