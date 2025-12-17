@@ -150,7 +150,7 @@
 
 <img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/c7f17d0c-a3ff-48df-ae1e-ecaca0a2dfdf" />
 
-<img width="500" height="100" alt="image" src="https://github.com/user-attachments/assets/8517a4f9-fff8-4aa8-82f7-b45394641425" />
+<img width="450" height="100" alt="image" src="https://github.com/user-attachments/assets/8517a4f9-fff8-4aa8-82f7-b45394641425" />
 
 ## Формулировка задания №3.3
 Дана сигнатура метода: public string Chet (int x); 
